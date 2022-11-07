@@ -6,7 +6,7 @@ Mexican Computer Engineer. Graduated from Universidad Nacional Autonoma de Mexic
 - IA
 - Traveling
 
-🌱 I’m currently learning programing languages and looking for a master degree.
+🌱 I’m working in the software development area and looking forward to a master degree in IA.
 
 📫 Information of Contact:
 - Linkedin: https://www.linkedin.com/in/david-andr%C3%A9s-v%C3%A1squez-anguiano-70532a1b7/
